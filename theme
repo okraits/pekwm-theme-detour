@@ -4,8 +4,8 @@
 # Date: 15.08.2005
 # Updated: 26.01.2021
 
-$FONT="XFT#Bitstream Vera Sans-8#Center"
-$MFONT="XFT#Bitstream Vera Sans-8#Left"
+$FONT="Bitstream Vera Sans-9#Center"
+$MFONT="Bitstream Vera Sans-9#Left"
 
 PDecor {
 
